@@ -1,5 +1,5 @@
 function dangNhap(user, pass) {
-    return user === "admin" && pass === "123";
+    return user === "admin" && pass === "1234";
 }
 
 if (typeof document !== "undefined") {
